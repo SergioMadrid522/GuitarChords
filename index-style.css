@@ -73,7 +73,7 @@ main {
     width: 80%;
     margin: 0 auto;
 }  */
-#instrument-container ul {
+/* #instrument-container ul {
     list-style: none;
 }
 #instrument-container li {
@@ -89,7 +89,7 @@ main {
 }
 #instrument-container a:hover {
     text-decoration: underline;
-}
+} */
 
 #genre-container {
     /* background-color: red; */
@@ -97,10 +97,10 @@ main {
 
     border-left: none;
 }
-.genre-link:last-child {
+/* .genre-link:last-child {
     border-bottom: none;
 }
-
+ */
 #title {
     width: auto;
     text-align: left;
