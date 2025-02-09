@@ -77,9 +77,9 @@ main {
     list-style: none;
 }
 #instrument-container li {
-    /* background-color: red; */
+    background-color: red; 
     padding: 10px;
-}
+}*/
 #instrument-container a {
     color: #000000;
     font-family: "Roboto", serif;
